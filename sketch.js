@@ -1,7 +1,7 @@
 // variables
 //common vars
   var database;
-  var background_img, background_imgtxt = "/dashboad.png";
+  var background_img, background_imgtxt = "dashboad.png";
   var opt_img, submit_img, next_img;
   var appState = "dashboard"
   var update = "off", longitude, latitude;
