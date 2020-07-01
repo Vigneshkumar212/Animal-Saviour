@@ -4,7 +4,7 @@
   var background_img, background_imgtxt = "dashboad.png";
   var opt_img, submit_img, next_img;
   var appState = "dashboard"
-  var update = "off", longitude, latitude;
+  var update = "off", longitude = "not given", latitude = "not given";
   var upload_img, upload_imgp1, upload_imgp2, upload_imgp1h;
   var Animal_type, animal_type;
 
