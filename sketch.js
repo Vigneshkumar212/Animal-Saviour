@@ -23,7 +23,7 @@
 function preload() {
   //loading images
   opt_img = loadImage("dash opt.png");
-  background_img = loadImage(background_imgtxt);
+  background_img = loadImage("dashboad.png");
   submit_img = loadImage("submit_button.png");
   next_img = loadImage("next_button.png");
   ngothanks = loadImage("ngothanks.png");
